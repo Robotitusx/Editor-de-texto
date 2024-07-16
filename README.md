@@ -1,18 +1,17 @@
-## Getting Started
+# Editor de Texto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este es un simple editor de texto desarrollado en JAVA, diseñado para proporcionar una interfaz intuitiva y funcionalidad básica para la edición de archivos de texto.
 
-## Folder Structure
+## Características
 
-The workspace contains two folders by default, where:
+- **Edición de Texto:** Permite escribir, editar y guardar archivos de texto.
+- **Interfaz Simple:** Diseño limpio y fácil de usar.
+- **Compatibilidad:** Funciona en [plataformas compatibles].
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Instalación
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Clona el repositorio:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+   ```bash
+   git clone https://github.com/Robotitusx/Editor-de-texto.git
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
